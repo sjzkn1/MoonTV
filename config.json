@@ -77,6 +77,10 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
+      "l4zi": {
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "name": "乐播资源"
+    },
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
