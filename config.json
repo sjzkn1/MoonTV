@@ -1,6 +1,9 @@
 {
   "cache_time": 7200,
   "api_site": {
+     "jydj": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源",
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
