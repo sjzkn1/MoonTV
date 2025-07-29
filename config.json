@@ -3,7 +3,8 @@
   "api_site": {
      "jyd2j": {
       "api": "https://jyzyapi.com/provide/vod",
-      "name": "金鹰资源",
+      "name": "金鹰资源"
+    },  
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
@@ -25,6 +26,10 @@
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
+    },
+     "heim1uer": {
+      "api": "https://hw8.live/api.php/provide/vod",
+      "name": "华为采集"
     },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
