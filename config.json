@@ -15,6 +15,14 @@
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
+    "md56zy": {
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "name": "小鸡资源"
+    },
+     "md56zy": {
+      "api": "https://dadiapi.com/api.php/provide/vod",
+      "name": "大地资源"
+    },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
